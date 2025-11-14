@@ -7,16 +7,7 @@
 ---
 
 ## 项目结构
-├── README.md                 # 本文件
-├── docs/
-│   ├── main.markdown           # 详细教程（Markdown）
-│   └── images/               # 教程截图文件夹
-│       ├── step1_wlan_selection.png
-│       ├── step2_qq_send_photo.png
-│       ├── step3_ip_filter.png
-│       ├── step4_hex_search.png
-│       ├── step5_tcp_stream.png
-│       ├── step6_winhex_clean.png
-│       └── result_final_image.png
+├── README.md                 # 本文件   ├──> main.markdown           # 详细教程（Markdown）
+
 
 
